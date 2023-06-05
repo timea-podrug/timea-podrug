@@ -30,6 +30,19 @@ I'm Timea Podrug, an individual driven by a genuine love for coding, problem-sol
 <details>
     <summary>
         <h3>My Coding Journey</h3>
+        Certainly! Here's a simpler version of the story:
+
+During my time in middle school, I stumbled upon the enchanting world of coding and instantly fell in love with it. Determined to pursue my passion, I enrolled in a high school specializing in web development.
+
+Eager to connect with like-minded individuals, I began attending local IT community events, such as meetups and workshops. The Festival of Entrepreneurship and Technology caught my attention, and I eagerly volunteered to be a part of it. The experience was exhilarating, and I was grateful for the opportunity to contribute.
+
+Recognizing my dedication, Split Tech City, a respected organization in our community, approached me and two of my friends. They entrusted us with the task of organizing a conference called NEXT. We poured our hearts into planning the event, from inviting speakers to handling logistics and promotions.
+
+When the day of the NEXT conference arrived, the atmosphere buzzed with excitement. Tech enthusiasts, entrepreneurs, and industry professionals gathered, and I felt a mix of nervousness and pride as the organizer. Witnessing the connections made and the inspiration sparked among attendees was truly rewarding.
+
+The success of the NEXT conference marked a significant milestone in my coding journey. It reinforced my passion for coding and showed me the power of community and knowledge sharing.
+
+Looking back, I realize that my love for coding goes beyond writing code or completing projects. It's about the connections I've made, the knowledge I've gained, and the impact I can have on the ever-evolving world of technology. With each step forward, I'm excited to continue learning and making a difference in the field I'm so passionate about.
     </summary>
 </details>          
           
