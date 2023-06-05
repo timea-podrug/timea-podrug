@@ -1,4 +1,8 @@
-### Hi there 👋
+# Timea Podrug 👋
+
+**`High School Student/Web Developer/Volonteer`**
+
+I am Timea Podrug, an individual driven by a genuine love for coding, problem-solving, and the constantly expanding world of web development.Ever since I first encourted coding in middle school, I found myself captivated by the world of coding. It became my playground, offering endless opportunities for creativity and logical thinking. As I delved deeper into web development, I discovered my natural aptitude for problem-solving, guiding me through the complexities of programming languages and algorithms.
 
 <!--
 **timea-podrug/timea-podrug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
