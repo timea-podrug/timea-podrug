@@ -7,7 +7,7 @@ I'm Timea Podrug, an individual driven by a genuine love for coding, problem-sol
 
 ### Languages and Tools
 
-<img align="left" width="30px" style="padding-right=30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+
 <img align="left" width="30px" style="padding-right=30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="left" width="30px" style="padding-right=30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="left" width="30px" style="padding-right=30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -15,10 +15,23 @@ I'm Timea Podrug, an individual driven by a genuine love for coding, problem-sol
 <img align="left" width="30px" style="padding-right=30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" width="30px" style="padding-right=30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" width="30px" style="padding-right=30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-<img align="left" width="30px" style="padding-right=30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 <img align="left" width="30px" style="padding-right=30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" width="30px" style="padding-right=30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          
+
+</br>
+
+#
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timea-podrug&show_icons=true&theme=apprentice)
+
+#
+
+<details>
+    <summary>
+        <h3>My Coding Journey</h3>
+    </summary>
+</details>          
           
           
           
