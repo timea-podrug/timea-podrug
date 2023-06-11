@@ -18,6 +18,7 @@ I'm Timea Podrug, an individual driven by a genuine love for coding, problem-sol
 
 <img align="left" width="30px" style="padding-right=30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" width="30px" style="padding-right=30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" width="30px" style="padding-right=30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 </br>
 
