@@ -22,9 +22,9 @@ I'm Timea Podrug, an individual driven by a genuine love for coding, problem-sol
 </br>
 
 #
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timea-podrug&show_icons=true&theme=apprentice)
-
+-->
 #
 
 <details>
