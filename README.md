@@ -1,6 +1,6 @@
 # Timea Podrug 👋
 
-**`High School Student/Web Developer`**
+**`High School Student/ Web Developer`**
 
 I'm Timea Podrug, an individual driven by a genuine love for coding, problem-solving, and the constantly expanding world of web development.Ever since I first encourted coding in middle school, I found myself captivated by the world of coding. It became my playground, offering endless opportunities for creativity and logical thinking. As I delved deeper into web development, I discovered my natural aptitude for problem-solving, guiding me through the complexities of programming languages and algorithms.
 
@@ -44,7 +44,6 @@ The success of the NEXT conference marked a significant milestone in my coding j
 Looking back, I realize that my love for coding goes beyond writing code or completing projects. It's about the connections I've made, the knowledge I've gained, and the impact I can have on the ever-evolving world of technology. With each step forward, I'm excited to continue learning and making a difference in the field I'm so passionate about.
 
 </details>          
-          
           
           
           
